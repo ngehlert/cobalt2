@@ -7,6 +7,6 @@ Inspired by https://github.com/wesbos/cobalt2 but with my own touch.
 
 ## Install
 
-Webstorm --> Preferences Editor --> Color Scheme --> Import Scheme
+Webstorm --> Preferences Editor --> Color Scheme --> Settings (Gear-Wheel) --> Import Scheme
 
 and simply import the .icls file.
