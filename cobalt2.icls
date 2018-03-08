@@ -1,11 +1,13 @@
 <scheme name="Cobalt 2" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-07-21T08:47:30</property>
+    <property name="created">2018-03-08T11:18:32</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-07-31T09:20:06</property>
-    <property name="originalScheme">_@user_Cobalt</property>
+    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="modified">2018-03-08T11:18:45</property>
+    <property name="originalScheme">Cobalt 2</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1629" />
@@ -937,9 +939,9 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="333434" />
+        <option name="EFFECT_COLOR" value="ffffcc" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
