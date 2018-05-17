@@ -1,10 +1,10 @@
 <scheme name="Cobalt 2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-03-08T11:18:32</property>
+    <property name="created">2018-05-17T10:48:23</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-08T11:18:45</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-05-17T10:48:37</property>
     <property name="originalScheme">Cobalt 2</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
