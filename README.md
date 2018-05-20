@@ -11,6 +11,12 @@ Webstorm --> Preferences Editor --> Color Scheme --> Settings (Gear-Wheel) --> I
 
 and simply import the .icls file.
 
+## Jetbrains Plugin Repository
+
+Also available in the official Jetbrains Plugin Repository. Download it from the link or Webstorm --> Preferences --> Plugins --> Browse Repositories --> Search for 'Cobalt 2'
+
+https://plugins.jetbrains.com/plugin/10745-cobalt-2-color-scheme
+
 ## Screenshots
 
 #### JS / TS
