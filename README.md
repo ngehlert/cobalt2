@@ -1,5 +1,7 @@
 # cobalt2
-Cobalt 2 Theme for Webstorm
+Cobalt 2 Theme for Webstorm and for other JetBrains products (like IntelliJ IDEA, PhpStorm, PyCharm, etc.)
+
+There is also a theme file for Mattermost (https://about.mattermost.com/)
 
 
 Inspired by https://github.com/wesbos/cobalt2 but with my own touch.
@@ -7,15 +9,21 @@ Inspired by https://github.com/wesbos/cobalt2 but with my own touch.
 
 ## Install
 
+### JetBrains - Manually
+
 Webstorm --> Preferences Editor --> Color Scheme --> Settings (Gear-Wheel) --> Import Scheme
 
 and simply import the .icls file.
 
-## Jetbrains Plugin Repository
+### JetBrains - Plugin Repository
 
 Also available in the official Jetbrains Plugin Repository. Download it from the link or Webstorm --> Preferences --> Plugins --> Browse Repositories --> Search for 'Cobalt 2'
 
 https://plugins.jetbrains.com/plugin/10745-cobalt-2-color-scheme
+
+### Mattermost
+
+Account Settings --> Display --> Theme --> Paste the content from `cobalt2-mattermost.json` into the paste section
 
 ## Screenshots
 
