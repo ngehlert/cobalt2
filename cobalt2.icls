@@ -1,10 +1,10 @@
 <scheme name="Cobalt 2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-05-17T10:48:23</property>
+    <property name="created">2018-05-23T16:49:20</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-05-17T10:48:37</property>
+    <property name="modified">2018-05-23T16:49:25</property>
     <property name="originalScheme">Cobalt 2</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -535,7 +535,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="fb94ff" />
+        <option name="FOREGROUND" value="eb939a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -568,6 +568,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff9d00" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -589,6 +590,7 @@
     <option name="DEFAULT_METADATA">
       <value>
         <option name="FOREGROUND" value="9effff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -624,7 +626,6 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="eb939a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1069,12 +1070,6 @@
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ff628c" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="eb939a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
