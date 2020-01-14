@@ -1,13 +1,19 @@
-<scheme name="Cobalt 2" version="142" parent_scheme="Darcula">
+<scheme name="Cobalt 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-05-23T16:49:20</property>
+    <property name="created">2018-05-17T16:49:20</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-05-23T16:49:25</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2020-01-14T11:27:26</property>
     <property name="originalScheme">Cobalt 2</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Victor Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Victor Mono" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1629" />
@@ -335,14 +341,10 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ffc107" />
       </value>
     </option>
-    <option name="CSS.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="ff628c" />
-      </value>
-    </option>
+    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="80ffbb" />
@@ -361,7 +363,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="fff0c7" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -461,7 +463,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ffc107" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -482,7 +484,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ffc107" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -492,7 +494,8 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ff628c" />
+        <option name="FOREGROUND" value="e91e63" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -525,12 +528,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ffc107" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ffc107" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -541,7 +544,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="6ba5d3" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -551,12 +554,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ffc107" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="c5e1a5" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -573,7 +576,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ffc107" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -589,23 +592,20 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="9effff" />
+        <option name="FOREGROUND" value="b7fffc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ff628c" />
+        <option name="FOREGROUND" value="e91e63" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="ff9d00" />
-      </value>
-    </option>
-    <option name="DEFAULT_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -630,12 +630,12 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ffc107" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="80ffbb" />
+        <option name="FOREGROUND" value="afefaf" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -886,11 +886,7 @@
         <option name="FOREGROUND" value="e1efff" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="ffc600" />
-      </value>
-    </option>
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="80ffbb" />
@@ -1072,19 +1068,15 @@
         <option name="FOREGROUND" value="ff628c" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+    <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ffc600" />
+        <option name="FOREGROUND" value="ff51" />
       </value>
     </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="eb939a" />
-      </value>
-    </option>
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="fa7e83" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -1748,11 +1740,7 @@
         <option name="FOREGROUND" value="eb939a" />
       </value>
     </option>
-    <option name="SASS_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="cccccc" />
-      </value>
-    </option>
+    <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4f4f82" />
@@ -1872,7 +1860,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="fff0c7" />
         <option name="BACKGROUND" value="2240" />
       </value>
     </option>

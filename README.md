@@ -30,8 +30,10 @@ Account Settings --> Display --> Theme --> Paste the content from `cobalt2-matte
 #### JS / TS
 ![Sample1](https://raw.githubusercontent.com/ngehlert/cobalt2/master/sample1.png)
 
-#### HTML
 ![Sample2](https://raw.githubusercontent.com/ngehlert/cobalt2/master/sample2.png)
 
-#### CSS / SASS
+#### HTML
 ![Sample3](https://raw.githubusercontent.com/ngehlert/cobalt2/master/sample3.png)
+
+#### CSS / SASS
+![Sample4](https://raw.githubusercontent.com/ngehlert/cobalt2/master/sample4.png)
